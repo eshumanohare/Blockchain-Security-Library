@@ -1,6 +1,6 @@
 # Blockchain Node Security
 
-- [$150,000 Evmos Vulnerability Through Reading Documentation](https://medium.com/@jjordanjjordan/150-000-evmos-vulnerability-through-reading-documentation-d26328590a7a)
+- [$150,000 Evmos Vulnerability Through Reading Documentation](https://medium.com/@jjordanjjordan/150-000-evmos-vulnerability-through-reading-documentation-d26328590a7a) done
 - [Attacking an Ethereum L2 with Unbridled Optimism](https://www.saurik.com/optimism.html)
 - [awesome cosmos security](https://github.com/deliriusz/awesome-cosmos-security)
 - [Ethereum protocol attackathon academy](https://immunefi.com/academy/ethereum-protocol-attackathon/)
