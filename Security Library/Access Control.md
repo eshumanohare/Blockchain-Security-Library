@@ -3,7 +3,7 @@
 - [Access Control Vulnerabilities in Solidity Smart Contracts](https://www.immunebytes.com/blog/access-control-vulnerabilities-in-solidity-smart-contracts/)
 - [Access Control Vulnerability in DeFi](https://quillaudits.medium.com/access-control-vulnerability-in-defi-quillaudits-909e7ed4582c)
 - [Admin Brick & Forced Revert](https://dacian.me/28k-bounty-admin-brick-forced-revert)
-- [Attack Vectors in Solidity #1: Inappropriate Access Control](https://medium.com/@natachigram/attack-vectors-in-solidity-1-inappropriate-access-control-55b700fcd973)
+- [Attack Vectors in Solidity #1: Inappropriate Access Control](https://medium.com/@natachigram/attack-vectors-in-solidity-1-inappropriate-access-control-55b700fcd973) done
 - [CoW Swap Solver Exploit— Post mortem](https://blog.cow.fi/cow-swap-solver-exploit-post-mortem-07-02-2023-2faa9f918e29)
 - [Cryptoninja World NFT hack Analysis — Improper Access control](https://blog.solidityscan.com/cryptoninja-world-nft-hack-analysis-improper-access-control-6d22a95db51a)
 - [Degen Millionaires Club hack](https://medium.com/@degenmillionairesclub/dmc-exploit-5th-february-2023-465972b76e2f)
